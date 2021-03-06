@@ -1,6 +1,6 @@
 ### 👋 Hi there，I’m wangashao, and I am pursuing for Bachelor degree of computer science at Huazhong University of Science and Techenology, graduating due June 2022.
 
-### 🌱 I’m currently learning cpp , java
+### 🌱 I’m currently learning java, database
 
 ### 🌈 Gubba nub nub doo rahkah!
 
